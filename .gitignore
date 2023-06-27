@@ -1,0 +1,17 @@
+node_modules
+.env.local
+.env
+
+.wwebjs_auth
+.wwebjs_cache
+
+wwebjs_auth
+wwebjs_cache
+
+assets/
+
+package-lock.json
+yarn.lock
+assets/
+/assets
+assets/*

@@ -1,0 +1,17 @@
+{
+  "name": "whatsapp_bot",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "mongodb": "^5.6.0",
+    "mongoose": "^7.3.1",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.21.0",
+    "wwebjs-mongo": "^1.1.0"
+  }
+}
